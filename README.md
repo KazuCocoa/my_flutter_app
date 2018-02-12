@@ -6,3 +6,7 @@ A new Flutter project.
 
 For help getting started with Flutter, view our online
 [documentation](http://flutter.io/).
+
+The following codelabs as well.
+https://codelabs.developers.google.com/codelabs/flutter/index.html
+
